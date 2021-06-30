@@ -4,4 +4,6 @@
 
 source /reddit/db_config
 
+service mongodb start
+
 cd /reddit && puma || exit
