@@ -1,0 +1,5 @@
+REPOSITORY                  TAG       IMAGE ID       CREATED         SIZE
+anatonium/ubuntu-tmp-file   latest    dfdcaada1a20   2 minutes ago   63.1MB
+nginx                       latest    4f380adfc10f   6 days ago      133MB
+ubuntu                      18.04     7d0d8fa37224   11 days ago     63.1MB
+hello-world                 latest    d1165f221234   3 months ago    13.3kB
