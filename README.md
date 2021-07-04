@@ -8,3 +8,8 @@ anatonium microservices repository
 - Основное задание:
     - Создание docker host
     - Создание своего образа и отправка его на Dockerhub
+
+### Задание monitoring-1
+
+Ссылка на докерхаб:
+https://hub.docker.com/u/anatonium/
