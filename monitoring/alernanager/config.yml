@@ -1,0 +1,10 @@
+global:
+  slack_api_url: 'https://hooks.slack.com/services/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'
+
+route:
+  receiver: 'slack-notifications'
+
+receivers:
+- name: 'slack-notifications'
+  slack_configs:
+  - channel: '#e42-internship'
