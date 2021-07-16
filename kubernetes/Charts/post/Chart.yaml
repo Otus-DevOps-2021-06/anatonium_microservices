@@ -1,0 +1,7 @@
+name: post
+version: 1.0.0
+description: OTUS reddit application POST
+maintainers:
+  - name: anatonium
+    email: anatifov@express42.com
+appVersion: 1.0
